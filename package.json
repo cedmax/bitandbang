@@ -1,20 +1,20 @@
 {
-  "name": "bitandbang",
+  "name": "cedmax",
   "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Marco Cedaro (@cedmax)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "cedmax": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/cedmax/cedmax.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Marco Cedaro",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
