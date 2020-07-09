@@ -1,6 +1,6 @@
 {
   "name": "cedmax",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A personal card for Marco Cedaro (@cedmax)",
   "main": "index.js",
   "bin": {
